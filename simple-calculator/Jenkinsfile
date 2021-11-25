@@ -10,7 +10,7 @@ stage('Checkout') {
 
 steps {
 sendNotification('started', 'team@example.com')
-git branch: 'notifications',url: 'https://github.com/udat001/DO400-apps'
+git branch: 'solutions',url: 'https://github.com/udat001/DO400-apps'
 
 }
 

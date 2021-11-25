@@ -10,7 +10,7 @@ stage('Checkout') {
 
 steps {
 
-git branch: 'notifications',url: 'https://github.com/YOUR_GITHUB_USER/DO400-apps'
+git branch: 'notifications',url: 'https://github.com/udat001/DO400-apps'
 
 }
 

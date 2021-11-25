@@ -49,3 +49,4 @@ subject: "Pipeline ${action}: ${currentBuild.fullDisplayName}",
 body: "The following pipeline ${action}: ${env.BUILD_URL}"
 
 }
+}
